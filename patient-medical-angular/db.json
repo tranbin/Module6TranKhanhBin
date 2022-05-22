@@ -1,0 +1,46 @@
+{
+  "medicals": [
+    {
+      "id_project": 1,
+      "patient_date_go": "1919-11-02",
+      "patient_date_out": "1919-11-02",
+      "reason_go": "json-server",
+      "method_treatment": "method_treatment-server",
+      "name_doctor": "method_treatment-server",
+      "patient": "A"
+    },
+    {
+      "id_project": 2,
+      "patient_date_go": "1919-11-02",
+      "patient_date_out": "1919-11-02",
+      "reason_go": "json-server",
+      "method_treatment": "method_treatment-server",
+      "name_doctor": "method_treatment-server",
+      "patient": "A"
+    },
+    {
+      "id_project": 3,
+      "patient_date_go": "1919-11-02",
+      "patient_date_out": "1919-11-02",
+      "reason_go": "json-server",
+      "method_treatment": "method_treatment-server",
+      "name_doctor": "method_treatment-server",
+      "patient": "A"
+    }
+  ],
+  "patients": [
+    {
+      "id_patient": 1,
+      "name_patient": "A"
+    },
+    {
+      "id_patient": 2,
+      "name_patient": "B"
+    },
+    {
+      "id_patient": 3,
+      "name_patient": "C"
+    }
+  ]
+}
+
